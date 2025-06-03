@@ -112,13 +112,13 @@ Seja bem-vindo e sinta-se à vontade para interagir comigo no linkedin ou email!
     <img 
       alt="GitHub Stats" 
       src="https://github-readme-stats.vercel.app/api?username=Cecimedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      height="180"
+      height="180em"
     />
   </a>
 
   <img 
     alt="Tecnologias" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cecimedeiros&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    height="180"
+    height="180em"
   />
 </div>
