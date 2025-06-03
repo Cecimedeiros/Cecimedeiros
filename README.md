@@ -107,18 +107,9 @@ Seja bem-vindo e sinta-se à vontade para interagir comigo no linkedin ou email!
 
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <a href="https://github.com/Cecimedeiros" target="_blank">
-    <img 
-      alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=Cecimedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      height="180em"
-    />
+<div>
+  <a href="https://github.com/Cecimedeiros">
+    <img height=200em" src="https://github-readme-stats.vercel.app/api?username=Cecimedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cecimedeiros&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   </a>
-
-  <img 
-    alt="Tecnologias" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cecimedeiros&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    height="180em"
-  />
 </div>
