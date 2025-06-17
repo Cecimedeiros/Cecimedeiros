@@ -1,12 +1,19 @@
 # 👩🏻‍💻 Cecília Medeiros
 
 
-Me chamo Cecília Medeiros, tenho 21 anos e sou natural de Pernambuco. 
+[PT- BR] Me chamo Cecília Medeiros, tenho 21 anos e sou natural de Pernambuco. 
 Sou graduanda em Análise e Desenvolvimento de Sistemas, 
 apaixonada por dados e tudo que envolve transformá-los em informações úteis. 
 Tenho experiência prática com Python (Pandas, NumPy, Matplotlib), SQL, MySQL, Excel e Power BI, aplicando essas ferramentas em diferentes projetos, que você pode acessar aqui.
 
 Seja bem-vindo e sinta-se à vontade para interagir comigo no linkedin ou email! 
+
+[EN] My name is Cecília Medeiros, I’m 21 years old, and I’m from Pernambuco, Brazil.
+I’m currently pursuing a degree in Systems Analysis and Development,
+and I’m passionate about data and everything related to transforming it into useful information.
+I have hands-on experience with Python (Pandas, NumPy, Matplotlib), SQL, MySQL, Excel, and Power BI, applying these tools in various projects, which you can check out [here].
+
+Welcome, and feel free to connect with me on LinkedIn or via email!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/medeiroscecilia22/" target="_blank">
