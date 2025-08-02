@@ -4,7 +4,7 @@
 [PT- BR] Me chamo Cecília Medeiros, tenho 21 anos e sou natural de Pernambuco. 
 Sou graduanda em Análise e Desenvolvimento de Sistemas, 
 apaixonada por dados e tudo que envolve transformá-los em informações úteis. 
-Tenho experiência prática com Python (Pandas, NumPy, Matplotlib), SQL, MySQL, Excel e Power BI, aplicando essas ferramentas em diferentes projetos, que você pode acessar aqui.
+Tenho experiência prática com Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, MySQL, Excel e Power BI, aplicando essas ferramentas em diferentes projetos, que você pode acessar aqui.
 
 Seja bem-vindo e sinta-se à vontade para interagir comigo no linkedin ou email! 
 
