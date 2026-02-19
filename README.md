@@ -8,7 +8,7 @@ Tenho experiência prática com Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
 
 Seja bem-vindo e sinta-se à vontade para interagir comigo no linkedin ou email! 
 
-[EN] My name is Cecília Medeiros, I’m 21 years old, and I’m from Pernambuco, Brazil.
+[EN] My name is Cecília Medeiros, I’m 22 years old, and I’m from Pernambuco, Brazil.
 I’m currently pursuing a degree in Systems Analysis and Development,
 and I’m passionate about data and everything related to transforming it into useful information.
 I have hands-on experience with Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, MySQL, Excel, and Power BI, applying these tools in various projects, which you can check out [here]. Nowdays, I've been working as a BI analist in marketing digital field.
