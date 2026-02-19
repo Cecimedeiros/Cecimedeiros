@@ -112,11 +112,4 @@ Welcome, and feel free to connect with me on LinkedIn or via email!
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<div>
-  <a href="https://github.com/Cecimedeiros">
-    <img height=200em" src="https://github-readme-stats.vercel.app/api?username=Cecimedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cecimedeiros&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-  </a>
-</div>
